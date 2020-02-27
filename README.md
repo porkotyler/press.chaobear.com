@@ -1,4 +1,6 @@
-# Chao Bear Apparel
+![](https://i.imgur.com/WcEUeRQ.png)
+
+# Chao Bear Apparel - Press Room (Website)
 Chao Bear Apparel is a sports brand that prints products on demand.
 
 ## Getting Started
